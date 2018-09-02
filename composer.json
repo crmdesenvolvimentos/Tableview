@@ -1,0 +1,28 @@
+{
+    "name": "Crmdesenvolvimentos/Tableview",
+    "description": "Table generator for Laravel 5.4^ with w3.css",
+    "keywords": ["search", "sort", "pagination", "data table", "table view", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Celio Martins",
+            "email": "celiomartins99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Crm\\Tableview\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.8.*",
+        "illuminate/pagination": "5.8.*"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Crm\\Tableview\\Tests\\": "tests/"
+        }
+    }
+}
