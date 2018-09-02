@@ -1,5 +1,5 @@
 {
-    "name": "Crmdesenvolvimentos/Tableview",
+    "name": "crmdesenvolvimentos/tableview",
     "description": "Table generator for Laravel 5.4^ with w3.css",
     "keywords": ["search", "sort", "pagination", "data table", "table view", "laravel"],
     "license": "MIT",
