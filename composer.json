@@ -12,15 +12,10 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Crm\\Tableview\\": "src/"
+            "Crm\\TableView\\": "src/"
         }
     },
     "require": {
         "php": ">=5.5.9"
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Crm\\Tableview\\Tests\\": "tests/"
-        }
     }
 }
