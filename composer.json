@@ -17,8 +17,6 @@
     },
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "5.8.*",
-        "illuminate/pagination": "5.8.*"
     },
     "autoload-dev": {
         "psr-4": {

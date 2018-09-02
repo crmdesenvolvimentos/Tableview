@@ -5,10 +5,7 @@ Laravel 5 Package for easily displaying table views for Eloquent Collections wit
 Installation
 ----
 
-Update your `composer.json` file to include this package as a dependency
-```json
-"crm-laravel/table-view": "dev-master"
-```
+composer require crmdesenvolvimentos/tableview
 
 
 Register the TableView service provider by adding it to the providers array in the `config/app.php` file.
